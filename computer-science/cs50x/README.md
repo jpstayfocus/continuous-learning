@@ -23,20 +23,6 @@ The course provided hands-on experience solving computational problems and progr
 - HTML, CSS, and JavaScript
 - Flask
 
-## Final Project — Sentinel
-
-For my final project, I developed **Sentinel**, a behavioral security monitoring web application.
-
-Sentinel analyzes authentication events using a user's historical login behavior and generates an explainable risk score based on indicators such as:
-
-- Unusual login times
-- New locations
-- New devices
-- Multiple failed authentication attempts
-
-Suspicious events are displayed through a security alert interface where an analyst can review detection reasons and move alerts through **Open**, **Investigating**, and **Resolved** states.
-
-The project allowed me to combine Python, SQL, Flask, HTML, and application design with my interest in cybersecurity and behavioral analysis.
 
 ## Credential
 
