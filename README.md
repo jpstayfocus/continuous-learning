@@ -13,6 +13,4 @@ The goal is to maintain a structured record of the technical knowledge and pract
 
 CS50x provided a foundation in computer science and software development, covering computational thinking, algorithms, data structures, C, Python, SQL, and web development.
 
-For my final project, I developed **Sentinel**, a behavioral security monitoring application that analyzes authentication events and generates explainable risk assessments based on historical user behavior.
-
 [View CS50x course details and credential](computer-science/cs50x/)
